@@ -1,5 +1,5 @@
 ### Hi there ðŸ‘‹
-- í ¼í¼± Iâ€™m currently learncaddy, but it may last a long time, for the sake of Colleage Entermination Exam.
+- ðŸŒ± Iâ€™m currently learning caddy, but it may last a long time, for the sake of Colleage Entermination Exam.
 - See you on 8th June, 2023!
 
 <!--
