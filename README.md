@@ -1,4 +1,6 @@
 ### Hi there ðŸ‘‹
+- í ¼í¼± Iâ€™m currently learncaddy, but it may last a long time, for the sake of Colleage Entermination Exam.
+- See you on 8th June, 2023!
 
 <!--
 **minortex/minortex** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
