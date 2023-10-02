@@ -1,5 +1,5 @@
 ### Hi there 👋
-Know more about me, visit (Moegirlpedia)[https://zh.moegirl.org.cn/User:Texsd123]
+Know more about me, visit [Moegirlpedia](https://zh.moegirl.org.cn/User:Texsd123)
 
 <!--
 **minortex/minortex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
