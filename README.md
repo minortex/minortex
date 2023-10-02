@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning caddy, but it may last a long time, for the sake of Colleage Entermination Exam.
-- See you on 8th June, 2023!
+Know more about me, visit (Moegirlpedia)[https://zh.moegirl.org.cn/User:Texsd123]
 
 <!--
 **minortex/minortex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
