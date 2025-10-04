@@ -10,15 +10,15 @@ Hi，I'm T.本秋 / 秋枫微凉 👋
 
 - 🔭 **Concentrating：** Gaining a deeper understanding of **GNU/Linux system**, and **Arch Linux** customizing~
 - 🌱 **Learning：**
-    - **Modern C++ **, for system-level tools and CLI application developing.
+    - Modern C++, for system-level tools and CLI application developing.
 - 🛠️ **Tech Stack & Daily Config**:
     - **Operating System**: Arch Linux (main) / Windows 11 LTSC (Game playing)
     - **DE/WM**: KDE Plasma (Wayland)
     - **Shell**: Zsh(Zim + powerlevel10k)
-    - **Language**: From Python/Shell To C++ ...(Though not so well in script language)
+    - **Language**: From Python/Shell To C++ ...(Though not doing so well in script language)
 - 💻 **Workflow**:
     - Implementing pure keyboard-driven control in the terminal.
-    - Yet in graphical environments, I compromise with VSCodium and KDE for efficiency and stability.。
+    - Yet in graphical environments, I compromise with VSCodium and KDE for efficiency and stability.
 - 🤔 **Philosophy**:
     - I live by the KISS principle.
     - though I’ll occasionally bend toward complexity when practicality demands it—like my Arch Linux still running systemd.
