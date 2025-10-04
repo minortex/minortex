@@ -1,34 +1,31 @@
 ### Hi there 👋
 
-嗨，我是 T.本秋 / 秋枫微凉 👋
+Hi，I'm T.本秋 / 秋枫微凉 👋
 
-> ID: @minortex 正在开源世界探索的 **Arch Linux** 爱好者。
+> ID: @minortex, exploring the open-source world.
 
 ---
 
-## 💻 关于我的技术探索
+## 💻 About my technology discoveries
 
-- 🔭 **我目前聚焦于：** 深入理解 **GNU/Linux 系统** 的运作原理，尤其是 **Arch Linux** 的客制化~
-- 🌱 **我正在学习：**
-    - **现代 C++ 编程**，目标是系统级工具或 CLI 应用开发。
-    - 各类 **Linux 系统编程** 知识。
-- 🛠️ **我的技术栈/日常配置：**
-    - **操作系统:** Arch Linux (主力) / Windows 11 LTSC (臭打游戏)
+- 🔭 **Concentrating：** Gaining a deeper understanding of **GNU/Linux system**, and **Arch Linux** customizing~
+- 🌱 **Learning：**
+    - **Modern C++ **, for system-level tools and CLI application developing.
+- 🛠️ **Tech Stack & Daily Config**:
+    - **Operating System**: Arch Linux (main) / Windows 11 LTSC (Game playing)
     - **DE/WM**: KDE Plasma (Wayland)
-    - **Shell:** Zsh(Zim + powerlevel10k)
-    - **语言:** 正在从 Python/Shell 向 **C++** 进发...（虽然脚本语言也不是那么精通啦）
-- 💻 **工作流**：沉迷于 Neovim 的定制，渴望在终端中实现**纯键盘控制**。但在**图形界面**上，我为了效率和稳定，选择妥协于 VSCodium 和 KDE。
-- 🤔 **我的哲学**：我的座右铭是 **KISS** 原则，但我承认在**实用性**面前偶尔会向**复杂性**妥协——比如我的 Arch 仍然运行着 systemd。找到**效率和简单的平衡**才是我追求的。
+    - **Shell**: Zsh(Zim + powerlevel10k)
+    - **Language**: From Python/Shell To C++ ...(Though not so well in script language)
+- 💻 **Workflow**:
+    - Implementing pure keyboard-driven control in the terminal.
+    - Yet in graphical environments, I compromise with VSCodium and KDE for efficiency and stability.。
+- 🤔 **Philosophy**:
+    - I live by the KISS principle.
+    - though I’ll occasionally bend toward complexity when practicality demands it—like my Arch Linux still running systemd.
+    - Striking the balance between efficiency and simplicity is my true pursuit.
 
-## 🌟 个人爱好与彩蛋
+## 🤝 Cooperation and Communication
 
-- 🎤 **我的本命**：**洛天依！** 
-- 🎧 **音乐品味**：我的曲库是**东方意境**与**日系活力**的结合。
-    - 偏爱有**流行元素**和**饱满意境**的**古风**作品。
-    - 沉迷于**节奏明快、充满力量**的**日系摇滚** $\text{J-Rock}$ 或**日系清新摇滚**。
-
-## 🤝 协作与联系
-
-- 💬 **欢迎与我讨论：** 关于 **Arch Linux** 的配置、嵌入式相关或 **现代C++** 的语言特性。
-- 🤔 **我正在寻找帮助**：如果有 C++ 的实战**小项目**可以让我练手，或者有 Linux 系统编程方面的学习资源，请告诉我。
-- 📫 **如何联系我**：通过邮件联系。
+- 💬 **Let's discuss**: About Arch Linux configuration, Embedded system and Modern C++'s language features.
+- 🤔 **Seek for help**: Small C++ projects for hands-on practice, Learning resources for Linux system programming, Pls tell me!
+- 📫 **Reach me**：Via email.
