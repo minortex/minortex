@@ -2,15 +2,11 @@ return {
   "keaising/im-select.nvim",
   vscode = true,
   config = function()
+    local is_windows = vim.uv.os_uname().sysname:find("Windows") ~= nil
     require("im_select").setup({
-      -- 【重要】在这里设置你的默认（英文）输入法。
-      -- 这个值应该是你在步骤 2 中用 `fcitx5-remote -n` 命令查到的英文输入法名称。
-      -- Fcitx5 通常是 "keyboard-us"。
-      default_im_select = "keyboard-us",
+      default_im_select = is_windows and 1033 or "keyboard-us",
 
-      -- 插件会自动检测 fcitx5-remote，一般不需要手动设置。
-      -- 但如果你的 `fcitx5-remote` 不在标准路径下，可以在这里指定完整路径。
-      -- default_command = "fcitx5-remote",
+      default_command = is_windows and "im-select.exe" or "fcitx5-remote",
 
       -- 以下是默认事件，非常适合日常使用，一般无需修改。
       -- 在进入普通模式、命令行模式或 Neovim 获得焦点时，切换到默认输入法。
