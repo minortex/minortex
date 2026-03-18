@@ -14,6 +14,7 @@ return {
   },
   {
     "rainzm/flash-zh.nvim",
+    vscode = true,
     event = "VeryLazy",
     dependencies = "folke/flash.nvim",
     keys = {
