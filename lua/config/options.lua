@@ -3,3 +3,4 @@
 -- Add any additional options here
 vim.opt.clipboard = ""
 vim.opt.spelllang = { "en", "cjk" }
+vim.opt.conceallevel = 0
