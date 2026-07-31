@@ -6,4 +6,4 @@ Hi，I'm T.本秋 / 秋枫微凉 👋
 
 ---
 
-see [my blog](https://blog.texsd.eu.org/pages/about/) for detail introduction.
+see [my blog](https://blog.texsd.eu.org/pages/about/) for detailed introduction.
