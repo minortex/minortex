@@ -12,7 +12,7 @@ return {
     formatters = {
       autocorrect = {
         command = "autocorrect",
-        args = { "autocorrect", "--fix", "--stdin", "--quiet" },
+        args = { "--fix", "--stdin", "--quiet" },
         stdin = true,
       },
     },
